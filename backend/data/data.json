@@ -1,0 +1,308 @@
+{
+    "questions": [
+        {
+            "question": "Quelle est la capitale de la Tunisie ?",
+            "id": "q1",
+            "correctAns": [2],
+            "answers": [
+                {
+                    "ans": "Tataouine (Star Wars)"
+                },
+                {
+                    "ans": "Tunis"
+                },
+                {
+                    "ans": "Djreba"
+                },
+                {
+                    "ans": "Bizerte"
+                }
+            ]
+        },
+        {
+            "question": "Quels sont les deux pays qui partagent la plus longue frontière terrestre du monde?",
+            "id": "q2",
+            "correctAns": [1,3],
+            "answers": [
+                {
+                    "ans": "Canada"
+                },
+                {
+                    "ans": "Mexique"
+                },
+                {
+                    "ans": "États-Unis"
+                },
+                {
+                    "ans": "Brésil"
+                }
+            ]
+        },
+        {
+            "question": "Qui a peint la Joconde ?",
+            "id": "q3",
+            "correctAns": [4],
+            "answers": [
+                {
+                    "ans": "Pablo Picasso"
+                },
+                {
+                    "ans": "Claude Monet"
+                },
+                {
+                    "ans": "Vincent van Gogh"
+                },
+                {
+                    "ans": "Léonard de Vinci"
+                }
+            ]
+        },
+        {
+            "question": "Quelles sont les deux planètes les plus proches du soleil ?",
+            "id": "q4",
+            "correctAns": [1,4],
+            "answers": [
+                {
+                    "ans": "Mercure"
+                },
+                {
+                    "ans": "Jupiter"
+                },
+                {
+                    "ans": "Mars"
+                },
+                {
+                    "ans": "Vénus"
+                }
+            ]
+        },
+        {
+            "question": "Quelles sont les deux principales composantes de l'ADN?",
+            "id": "q5",
+            "correctAns": [1,3],
+            "answers": [
+                {
+                    "ans": "Adénine"
+                },
+                {
+                    "ans": "Thymine"
+                },
+                {
+                    "ans": "Guanine"
+                },
+                {
+                    "ans": "Cytosine"
+                }
+            ]
+        },
+        {
+            "question": "Quels sports sont joués lors des Jeux olympiques d'été?",
+            "id": "q6",
+            "correctAns": [2,4],
+            "answers": [
+                {
+                    "ans": "Football"
+                },
+                {
+                    "ans": "Natation"
+                },
+                {
+                    "ans": "Tennis"
+                },
+                {
+                    "ans": "Basketball"
+                }
+            ]
+        },
+        {
+            "question": "Quels joueurs de tennis ont remporté au moins 20 titres du Grand Chelem?",
+            "id": "q7",
+            "correctAns": [1,2,3],
+            "answers": [
+                {
+                    "ans": "Roger Federer"
+                },
+                {
+                    "ans": "Rafael Nadal"
+                },
+                {
+                    "ans": "Novak Djokovic"
+                },
+                {
+                    "ans": "Pete Sampras"
+                }
+            ]
+        },
+        {
+            "question": "Quels éléments chimiques sont des gaz nobles?",
+            "id": "q8",
+            "correctAns": [1,3],
+            "answers": [
+                {
+                    "ans": "Hélium"
+                },
+                {
+                    "ans": "Oxygène"
+                },
+                {
+                    "ans": "Néon"
+                },
+                {
+                    "ans": "Azote"
+                }
+            ]
+        },
+        {
+            "question": "Quel est l''instrument de musique le plus ancien du monde?",
+            "id": "q9",
+            "correctAns": [1],
+            "answers": [
+                {
+                    "ans": "Flûte"
+                },
+                {
+                    "ans": "Violon"
+                },
+                {
+                    "ans": "Harpe"
+                },
+                {
+                    "ans": "Tambour"
+                }
+            ]
+        },
+        {
+            "question": "Quels scientifiques sont connus pour leurs contributions à la théorie de la relativité?",
+            "id": "q10",
+            "correctAns": [2,4],
+            "answers": [
+                {
+                    "ans": "Isaac Newton"
+                },
+                {
+                    "ans": "Albert Einstein"
+                },
+                {
+                    "ans": "Galilée"
+                },
+                {
+                    "ans": "Stephen Hawking"
+                }
+            ]
+        },
+        {
+            "question": "Quels océans bordent l'Australie?",
+            "id": "q11",
+            "correctAns": [2,3],
+            "answers": [
+                {
+                    "ans": "Océan Atlantique"
+                },
+                {
+                    "ans": "Océan Indien"
+                },
+                {
+                    "ans": "Océan Pacifique"
+                },
+                {
+                    "ans": "Océan Arctique"
+                }
+            ]
+        },
+        {
+            "question": "Quels instruments sont utilisés dans un orchestre symphonique?",
+            "id": "q12",
+            "correctAns": [1,2],
+            "answers": [
+                {
+                    "ans": "Violon"
+                },
+                {
+                    "ans": "Trompette"
+                },
+                {
+                    "ans": "Batterie"
+                },
+                {
+                    "ans": "Guitare"
+                }
+            ]
+        },
+        {
+            "question": "Quels artistes ont remporté le Grammy Award de l'Album de l'année?",
+            "id": "q13",
+            "correctAns": [1,2],
+            "answers": [
+                {
+                    "ans": "Adele"
+                },
+                {
+                    "ans": "Taylor Swift"
+                },
+                {
+                    "ans": "Beyoncé"
+                },
+                {
+                    "ans": "Bruno Mars"
+                }
+            ]
+        },
+        {
+            "question": "Quels sont les pays membres du G7 (Groupe des Sept)?",
+            "id": "q14",
+            "correctAns": [1,2,3],
+            "answers": [
+                {
+                    "ans": "États-Unis"
+                },
+                {
+                    "ans": "Canada"
+                },
+                {
+                    "ans": "Allemagne"
+                },
+                {
+                    "ans": "Chine"
+                }
+            ]
+        },
+        {
+            "question": "Quels sont les deux plus grands désert du monde?",
+            "id": "q15",
+            "correctAns": [3,4],
+            "answers": [
+                {
+                    "ans": "Désert du Kalahari"
+                },
+                {
+                    "ans": "Désert d'Atacama"
+                },
+                {
+                    "ans": "Sahara"
+                },
+                {
+                    "ans": "Désert de Gobi"
+                }
+            ]
+        },
+        {
+            "question": "Quels artistes ont remporté le prix Nobel de littérature pour leurs paroles de chansons?",
+            "id": "q16",
+            "correctAns": [2,3],
+            "answers": [
+                {
+                    "ans": "Joni Mitchell"
+                },
+                {
+                    "ans": "Bob Dylan"
+                },
+                {
+                    "ans": "Leonard Cohen"
+                },
+                {
+                    "ans": "Paul McCartney"
+                }
+            ]
+        }
+    ]
+}
